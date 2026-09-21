@@ -2,6 +2,12 @@
 
 A [Flue](https://flueframework.com) agent for scheduled Detroit carpooling. It helps drivers share open seats on trips they already plan to make and helps riders evaluate affordable route matches.
 
+## Project structure
+
+- `src/` contains the Flue transportation agent.
+- `frontend/` contains the Carpool web application and deployment configuration.
+- `pitch/` contains the Venture 313 presentation deck, corrected video pitch, screenshots, and video-rendering source.
+
 ## Setup
 
 ```sh
